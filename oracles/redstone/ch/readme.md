@@ -6,4 +6,4 @@ submitted:
 - https://github.com/yuliyu123/awesome-web3-infras/blob/09c51948e0f2264903e8f4754edcd8939dc2c473/oracles/redstone/ch/%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md
 - https://github.com/yuliyu123/awesome-web3-infras/blob/09c51948e0f2264903e8f4754edcd8939dc2c473/oracles/redstone/ch/%E4%BB%8B%E7%BB%8D.md
 - https://github.com/yuliyu123/awesome-web3-infras/blob/master/oracles/redstone/ch/%E5%BC%80%E5%A7%8B/ERC7412(%E7%BB%8F%E5%85%B8+%E6%A0%B8%E5%BF%83).md
-
+- https://github.com/yuliyu123/awesome-web3-infras/blob/f7d3034f0afd7e67d820bb6dd39d56b943b6da6f/oracles/redstone/ch/%E5%BC%80%E5%A7%8B/X-front-running.md
